@@ -216,6 +216,12 @@ When providing solutions:
 ```
 
 2. Test the custom instructions by asking Copilot any coding question and notice how it applies the custom instructions automatically
+
+**Example questions to try (copy/paste into Copilot Chat):**
+
+- **Testing**
+   - "Write Jest unit tests for `src/util/calculator.js` covering happy paths and edge cases (division by zero, invalid inputs). Include explanations and clear test names."
+   
 3. The responses should include TypeScript, error handling, and Next.js 14 patterns
 
 ### 1.4 GitHub Copilot Code Reviews
